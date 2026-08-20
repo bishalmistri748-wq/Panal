@@ -1,1 +1,4 @@
-
+body { margin:0; background:#0b0d10; color:#e4e7ec; font-family: 'Segoe UI', sans-serif; }
+.hero { text-align:center; padding:4rem 2rem; background:#14171c; border-bottom:1px solid #2a2f36; }
+h1 { color:#f0b34b; font-size:3rem; }
+.btn { display:inline-block; padding:0.8rem 2rem; background:#f0b34b; color:#0b0d10; border-radius:30px; text-decoration:none; font-weight:bold; margin:0.5rem; }
